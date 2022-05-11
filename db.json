@@ -1,8 +1,7 @@
 {
     "Device": "Arista",
     "Model": "X-Video",
-    "NIC": 
-    [
+    "NIC": [
         {
             "Decription": "Linksys ABR",
             "MAC": "14:91:82:3C:D6:7D",
